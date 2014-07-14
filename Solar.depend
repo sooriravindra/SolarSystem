@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1369138157 source:/home/ravio/CodeBlock/Solar/SolarCB.cpp
+	<GL/gl.h>
+	<GL/glu.h>
+	<GL/glut.h>
+	<string.h>
+	<stdio.h>
+	<math.h>
+
